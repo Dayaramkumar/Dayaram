@@ -2,31 +2,34 @@
 
 ## 👨‍🏫 About Me
 
-I’m a former **physics teacher** transitioning into the world of **data analytics**. My background in education has sharpened my analytical thinking, problem-solving abilities, and communication skills. Now, I’m applying those strengths to uncover insights from data and support data-driven decision-making.
+I’m a former **physics teacher** transitioning into the field of **data analytics**. My background has equipped me with strong analytical thinking, problem-solving abilities, and the ability to communicate complex information clearly. I’m passionate about turning raw data into actionable insights to support smarter, data-driven decisions.
 
 ## 🔍 Interests
 
-- 📊 Data analysis & storytelling  
-- 🧠 Problem-solving with real-world data  
-- ⚙️ Process improvement & business insights  
-- 🎯 Continuous learning in analytics & visualization
+- 📊 Data analysis & visualization  
+- 🧠 Solving real-world problems through data  
+- ⚙️ Process improvement using analytical approaches  
+- 🎯 Continuous learning in tools, techniques, and data strategy
 
 ## 🛠️ Skills & Tools
 
-- 🐍 **Python** – Data wrangling, analysis (Pandas, NumPy, Matplotlib)  
-- 🗃️ **SQL** – Data querying and management  
-- 📊 **Excel** – Advanced formulas, pivot tables, dashboards  
-- 📈 **Power BI** – Interactive dashboards and reports  
+- 🐍 **Python** – Data pipelines, analysis, and visualization (Pandas, NumPy, Matplotlib)  
+- 🗃️ **SQL** – Data querying and exploration  
+- 📊 **Excel** – Data cleaning, pivot tables, dashboards  
+- 📈 **Power BI** – Report building and interactive dashboards  
 - 📚 Currently learning **Tableau**
 
 ## 📚 Learning & Certifications
 
-- 🎓 Data Analytics coursework via [Skillovilla](https://www.skillovilla.com)  
-- 👨‍💻 Hands-on personal projects using real-world datasets
+- 🎓 Data Analytics training and projects via [Skillovilla](https://www.skillovilla.com)  
+- 👨‍💻 Practical, hands-on experience with real-world datasets
 
 ## 🚀 Projects
 
-🔗 Coming soon – Stay tuned for project repositories focused on business, education, and public datasets!
+- 🛫 **Airline Data Analysis (SQL)** – Explored flight trends and delays to extract operational insights  
+- 🚴 **Bike Sharing Dataset (SQL)** – Analyzed rider behavior and system performance for optimization  
+- 🧪 **Project Management Analytics (Python)** – Built a data pipeline to track tasks, deadlines, and KPIs  
+- 🛍️ **ShopNest Store Dashboard (Power BI)** – Created a visual sales performance dashboard with dynamic filters and insights
 
 ## 🤝 Let’s Connect
 
